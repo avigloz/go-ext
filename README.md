@@ -1,6 +1,6 @@
 # go-ext
 
-Simple browser extension that ads a omnibox keyword for "go" links.
+Simple browser extension that adds a omnibox keyword for "go" links.
 
 Will likely only work on go-link compatible intranets.
 

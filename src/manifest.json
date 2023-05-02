@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "go-ext",
-  "description": "Simple browser extension that ads a omnibox keyword for \"go\" links.",
+  "description": "Simple browser extension that adds a omnibox keyword for \"go\" links.",
   "version": "2023.05.02.0",
   "omnibox": { "keyword" : "go/"},
   "icons": {
