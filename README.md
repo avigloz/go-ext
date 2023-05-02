@@ -6,4 +6,4 @@ Will likely only work on go-link compatible intranets.
 
 ## Use
 
-Enter `go/` into the URL bar (omnibox) to trigger the extension.
+Enter `go/` followed by a space into the URL bar (omnibox) to trigger the extension.
